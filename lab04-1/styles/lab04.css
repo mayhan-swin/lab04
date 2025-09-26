@@ -21,7 +21,7 @@ a {
     color: #4d4c4c;
 }
 .horizontal-line {
-    border-bottom: 3px solid black;
+    border-bottom: 10px solid black;
     width:100%;
     margin-top:1px;
 }
@@ -82,4 +82,5 @@ th, td {
     width:100%;
     margin-top:1px;
 }
+.special { color: orange; }
 
